@@ -1,0 +1,1008 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="算法源码">
+      <UniqueIdentifier>{cb2dba82-299a-4535-9f51-276cf7fc1089}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="试题">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="试题\dfs">
+      <UniqueIdentifier>{143105d6-26f0-4ac3-9395-ab87a133b996}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="试题\bfs">
+      <UniqueIdentifier>{20c1e14c-0d95-43ab-8726-3e9e811e7bd3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="试题\dynamic programming">
+      <UniqueIdentifier>{00f37e3c-bd53-4dcf-922f-a0bc03919d3d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="leetcode竞赛">
+      <UniqueIdentifier>{e4ae150f-7f18-4202-af75-101cebc535e8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="leetcode竞赛\第199次">
+      <UniqueIdentifier>{b4d74756-a3d3-4740-ba44-a2351c5d8541}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="leetcode竞赛\第198次">
+      <UniqueIdentifier>{5d289893-67e1-4194-9af7-c59e5098d9a7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="leetcode竞赛\第31次">
+      <UniqueIdentifier>{78f12459-c65b-4a05-b474-0f2f988b1156}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="试题\数组">
+      <UniqueIdentifier>{375c3778-cc01-4660-8a2a-7759276397d5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="试题\未分类">
+      <UniqueIdentifier>{1ef0c068-1688-4248-8596-e1a86f2839d6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="试题\链表">
+      <UniqueIdentifier>{69449db5-6882-468b-95a2-b4f202fcf8ed}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="试题\哈希散列表">
+      <UniqueIdentifier>{743e732b-38e8-43fd-aab4-d42b390fa6e1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="试题\greed algorithm">
+      <UniqueIdentifier>{91b6a35c-998e-4dd1-97ec-65f837b92d37}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="试题\字符串">
+      <UniqueIdentifier>{03c58513-54e9-4a67-81b5-4d065a5860ef}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="试题\剑指offer">
+      <UniqueIdentifier>{0ac416e8-4929-4b59-a3f2-194f4ebb21f8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="试题\union find">
+      <UniqueIdentifier>{37a82ce4-b140-4213-b2b5-629f32b81964}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="算法源码\8大排序方法">
+      <UniqueIdentifier>{dcb01d55-fc85-4431-ba36-b6efd98c7d27}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="算法源码\路径规划">
+      <UniqueIdentifier>{19d8cae8-3646-4442-8df7-bb997e418610}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="试题\华为机测">
+      <UniqueIdentifier>{ea224d42-0dbd-43b7-9724-f722238514a2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="试题\dynamic programming\[2]0-1背包问题">
+      <UniqueIdentifier>{f29f4b00-6704-41fe-bde2-35a44b811929}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="试题\dynamic programming\[2]股票问题">
+      <UniqueIdentifier>{2d13add4-9f5c-461c-b3b1-3dbc794363b8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="试题\dynamic programming\[2]最长上升子序列">
+      <UniqueIdentifier>{722bab56-2d94-4c8e-84f4-e2fde9d28dc7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="试题\dynamic programming\最长子回文串">
+      <UniqueIdentifier>{ce9984f9-74fe-40b2-b43f-9d9153978c71}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="试题\dynamic programming\菲波那切数列">
+      <UniqueIdentifier>{f1cd303f-02b0-442d-b8ed-5b7eb1a5e6eb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="试题\dynamic programming\小偷题">
+      <UniqueIdentifier>{f210c6d2-d7dc-48c4-99b0-80d36edccb4d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="试题\dynamic programming\网格题">
+      <UniqueIdentifier>{e871cb5a-b2d9-46bb-8f95-f8946cef1678}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="试题\各个公司笔试题汇总">
+      <UniqueIdentifier>{2d82391c-f779-4b62-bc53-2b6e29731d5f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="试题\各个公司笔试题汇总\华为">
+      <UniqueIdentifier>{41be6199-e710-4508-abcd-86c4c19e78c9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="试题\dynamic programming\[2]子串问题">
+      <UniqueIdentifier>{3ec36e43-650c-48e4-b890-0bf7e6a9dcdd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="试题\binary Search">
+      <UniqueIdentifier>{69c982f4-3a83-43d4-84f5-b44c3c92bf73}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="试题\分治算法">
+      <UniqueIdentifier>{91ae2e0b-0fe8-4dc5-bfb9-5f69ba851053}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="试题\队列">
+      <UniqueIdentifier>{adf137d7-037e-4742-82d7-5479743f11f1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="试题\队列\单调队列/单调栈">
+      <UniqueIdentifier>{490df9fd-2fd9-4fdb-80c3-efae8fdd50d4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="试题\图">
+      <UniqueIdentifier>{995656a1-a22e-4aa4-a7e1-2b961da63f9b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="试题\各个公司笔试题汇总\美团 4.11">
+      <UniqueIdentifier>{5c5dc379-2c33-4b2f-914b-f983709ec103}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="算法源码\图">
+      <UniqueIdentifier>{f30dca66-604d-470b-9c03-95076076c994}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="算法源码\二分查找">
+      <UniqueIdentifier>{3f514008-744f-4219-a103-3fd293fc4947}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="算法源码\树">
+      <UniqueIdentifier>{61c0aa1d-8f9a-425a-bfaa-754ae2c94825}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="试题\各个公司笔试题汇总\TX">
+      <UniqueIdentifier>{ea7833dd-fda4-4a4e-8608-a34046aa965d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="试题\二分查找">
+      <UniqueIdentifier>{160120c9-a08d-4cfc-8914-5588451d9034}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="试题\双指针/滑动窗口">
+      <UniqueIdentifier>{31c3b0a2-3c75-4239-8a44-6390ec4337ff}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="试题\dfs\求组合问题">
+      <UniqueIdentifier>{88d1c21a-fdab-43ca-9b53-4d4bcba75f23}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="试题\各个公司笔试题汇总\字节跳动">
+      <UniqueIdentifier>{c6744338-8395-495d-9f47-648a47d553e3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="试题\数组\矩阵旋转问题">
+      <UniqueIdentifier>{fb27fe63-a5d6-4533-84b3-845b89518c76}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="试题\各个公司笔试题汇总\阿里">
+      <UniqueIdentifier>{7f124d9e-c05e-4246-b176-be34fad86c03}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="试题\dfs\经典dfs + 回溯问题">
+      <UniqueIdentifier>{77ffac1a-5d65-4a72-9cb4-376e8c09a0e1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="试题\双指针/滑动窗口\双指针在链表中的应用">
+      <UniqueIdentifier>{be0db9d7-3b6c-478c-a7dd-ac6155831d9b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="试题\位运算">
+      <UniqueIdentifier>{53d0dc0b-dec6-4564-932b-d65f0647c301}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="试题\数组\前缀和问题">
+      <UniqueIdentifier>{163a3883-661b-4f1b-b37f-2a0567870d67}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="试题\哈希散列表\原地哈希">
+      <UniqueIdentifier>{ba32a394-ebfa-44fe-b3a2-1bd5d4bacab5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="试题\栈">
+      <UniqueIdentifier>{f9991786-db4b-4dd3-8350-00786e4dda0e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="试题\栈\单调栈">
+      <UniqueIdentifier>{03a10997-e510-44c5-9acc-7644baf6210b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="试题\堆">
+      <UniqueIdentifier>{04229f2c-8e59-43bb-acd4-49e9299498d4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="试题\dynamic programming\完全背包问题">
+      <UniqueIdentifier>{b33f02c6-3eb0-455d-8161-20496de94954}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="试题\各个公司笔试题汇总\JD">
+      <UniqueIdentifier>{5f906156-9d1c-418e-94ed-08614f49b619}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="算法源码\STL库函数实现">
+      <UniqueIdentifier>{673debed-eeaa-4d2a-93e2-aabe4a8055d7}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="模板.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="695. 岛屿的最大面积.cpp">
+      <Filter>试题\dfs</Filter>
+    </ClCompile>
+    <ClCompile Include="1305. 两棵二叉搜索树中的所有元素.cpp">
+      <Filter>试题\dfs</Filter>
+    </ClCompile>
+    <ClCompile Include="785. 判断二分图%28+bfs%29.cpp">
+      <Filter>试题\dfs</Filter>
+    </ClCompile>
+    <ClCompile Include="559. N叉树的最大深度.cpp">
+      <Filter>试题\dfs</Filter>
+    </ClCompile>
+    <ClCompile Include="5472. 重新排列字符串.cpp">
+      <Filter>leetcode竞赛\第199次</Filter>
+    </ClCompile>
+    <ClCompile Include="5473. 灯泡开关 IV.cpp">
+      <Filter>leetcode竞赛\第199次</Filter>
+    </ClCompile>
+    <ClCompile Include="%28精品%295474. 好叶子节点对的数量.cpp">
+      <Filter>leetcode竞赛\第199次</Filter>
+    </ClCompile>
+    <ClCompile Include="1518. 换酒问题.cpp">
+      <Filter>leetcode竞赛\第198次</Filter>
+    </ClCompile>
+    <ClCompile Include="1525. 字符串的好分割数目.cpp">
+      <Filter>leetcode竞赛\第31次</Filter>
+    </ClCompile>
+    <ClCompile Include="1523. 在区间范围内统计奇数数目.cpp">
+      <Filter>leetcode竞赛\第31次</Filter>
+    </ClCompile>
+    <ClCompile Include="1. 两数之和.cpp">
+      <Filter>试题\数组</Filter>
+    </ClCompile>
+    <ClCompile Include="(难)220. 存在重复元素 III.cpp">
+      <Filter>试题\未分类</Filter>
+    </ClCompile>
+    <ClCompile Include="164. 最大间距.cpp">
+      <Filter>试题\未分类</Filter>
+    </ClCompile>
+    <ClCompile Include="179. 最大数.cpp">
+      <Filter>试题\未分类</Filter>
+    </ClCompile>
+    <ClCompile Include="315. 计算右侧小于当前元素的个数.cpp">
+      <Filter>试题\未分类</Filter>
+    </ClCompile>
+    <ClCompile Include="524. 通过删除字母匹配到字典里最长单词.cpp">
+      <Filter>试题\未分类</Filter>
+    </ClCompile>
+    <ClCompile Include="767. 重构字符串.cpp">
+      <Filter>试题\未分类</Filter>
+    </ClCompile>
+    <ClCompile Include="973. 最接近原点的 K 个点.cpp">
+      <Filter>试题\未分类</Filter>
+    </ClCompile>
+    <ClCompile Include="976. 三角形的最大周长.cpp">
+      <Filter>试题\未分类</Filter>
+    </ClCompile>
+    <ClCompile Include="1014. 最佳观光组合.cpp">
+      <Filter>试题\未分类</Filter>
+    </ClCompile>
+    <ClCompile Include="1030. 距离顺序排列矩阵单元格.cpp">
+      <Filter>试题\未分类</Filter>
+    </ClCompile>
+    <ClCompile Include="1370. 上升下降字符串.cpp">
+      <Filter>试题\未分类</Filter>
+    </ClCompile>
+    <ClCompile Include="1403. 非递增顺序的最小子序列.cpp">
+      <Filter>试题\未分类</Filter>
+    </ClCompile>
+    <ClCompile Include="面试题 16.18. 模式匹配.cpp">
+      <Filter>试题\未分类</Filter>
+    </ClCompile>
+    <ClCompile Include="面试题 17.14. 最小K个数.cpp">
+      <Filter>试题\未分类</Filter>
+    </ClCompile>
+    <ClCompile Include="面试题45. 把数组排成最小的数.cpp">
+      <Filter>试题\未分类</Filter>
+    </ClCompile>
+    <ClCompile Include="面试题 10.01. 合并排序的数组.cpp">
+      <Filter>试题\数组</Filter>
+    </ClCompile>
+    <ClCompile Include="26. 删除排序数组中的重复项.cpp">
+      <Filter>试题\数组</Filter>
+    </ClCompile>
+    <ClCompile Include="35. 搜索插入位置.cpp">
+      <Filter>试题\数组</Filter>
+    </ClCompile>
+    <ClCompile Include="4. 寻找两个正序数组的中位数.cpp">
+      <Filter>试题\数组</Filter>
+    </ClCompile>
+    <ClCompile Include="53. 最大子序和.cpp">
+      <Filter>试题\数组</Filter>
+    </ClCompile>
+    <ClCompile Include="121. 买卖股票的最佳时机.cpp">
+      <Filter>试题\数组</Filter>
+    </ClCompile>
+    <ClCompile Include="27. 移除元素.cpp">
+      <Filter>试题\数组</Filter>
+    </ClCompile>
+    <ClCompile Include="66. 加一.cpp">
+      <Filter>试题\数组</Filter>
+    </ClCompile>
+    <ClCompile Include="2. 两数相加.cpp">
+      <Filter>试题\链表</Filter>
+    </ClCompile>
+    <ClCompile Include="283. 移动零.cpp">
+      <Filter>试题\数组</Filter>
+    </ClCompile>
+    <ClCompile Include="55. 跳跃游戏.cpp">
+      <Filter>试题\数组</Filter>
+    </ClCompile>
+    <ClCompile Include="56. 合并区间.cpp">
+      <Filter>试题\数组</Filter>
+    </ClCompile>
+    <ClCompile Include="经典好文.cpp">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="122. 买卖股票的最佳时机 II.cpp">
+      <Filter>试题\数组</Filter>
+    </ClCompile>
+    <ClCompile Include="169. 多数元素.cpp">
+      <Filter>试题\数组</Filter>
+    </ClCompile>
+    <ClCompile Include="%28难%2933. 搜索旋转排序数组.cpp">
+      <Filter>试题\数组</Filter>
+    </ClCompile>
+    <ClCompile Include="41. 缺失的第一个正数.cpp">
+      <Filter>试题\数组</Filter>
+    </ClCompile>
+    <ClCompile Include="167. 两数之和 II - 输入有序数组.cpp">
+      <Filter>试题\数组</Filter>
+    </ClCompile>
+    <ClCompile Include="面试题 01.01. 判定字符是否唯一.cpp">
+      <Filter>试题\数组</Filter>
+    </ClCompile>
+    <ClCompile Include="1013. 将数组分成和相等的三个部分.cpp">
+      <Filter>试题\数组</Filter>
+    </ClCompile>
+    <ClCompile Include="118. 杨辉三角.cpp">
+      <Filter>试题\数组</Filter>
+    </ClCompile>
+    <ClCompile Include="54. 螺旋矩阵.cpp">
+      <Filter>试题\数组</Filter>
+    </ClCompile>
+    <ClCompile Include="1160. 拼写单词.cpp">
+      <Filter>试题\哈希散列表</Filter>
+    </ClCompile>
+    <ClCompile Include="16. 最接近的三数之和.cpp">
+      <Filter>试题\数组</Filter>
+    </ClCompile>
+    <ClCompile Include="75. 颜色分类.cpp">
+      <Filter>试题\数组</Filter>
+    </ClCompile>
+    <ClCompile Include="189. 旋转数组.cpp">
+      <Filter>试题\数组</Filter>
+    </ClCompile>
+    <ClCompile Include="31. 下一个排列.cpp">
+      <Filter>试题\数组</Filter>
+    </ClCompile>
+    <ClCompile Include="225. 用队列实现栈.cpp">
+      <Filter>试题\栈</Filter>
+    </ClCompile>
+    <ClCompile Include="20. 有效的括号.cpp">
+      <Filter>试题\栈</Filter>
+    </ClCompile>
+    <ClCompile Include="活动安排问题.cpp">
+      <Filter>试题\greed algorithm</Filter>
+    </ClCompile>
+    <ClCompile Include="605. 种花问题.cpp">
+      <Filter>试题\greed algorithm</Filter>
+    </ClCompile>
+    <ClCompile Include="134. 加油站.cpp">
+      <Filter>试题\greed algorithm</Filter>
+    </ClCompile>
+    <ClCompile Include="45. 跳跃游戏 II.cpp">
+      <Filter>试题\greed algorithm</Filter>
+    </ClCompile>
+    <ClCompile Include="135. 分发糖果.cpp">
+      <Filter>试题\greed algorithm</Filter>
+    </ClCompile>
+    <ClCompile Include="406. 根据身高重建队列.cpp">
+      <Filter>试题\greed algorithm</Filter>
+    </ClCompile>
+    <ClCompile Include="330. 按要求补齐数组(看不懂).cpp">
+      <Filter>试题\greed algorithm</Filter>
+    </ClCompile>
+    <ClCompile Include="621. 任务调度器.cpp">
+      <Filter>试题\greed algorithm</Filter>
+    </ClCompile>
+    <ClCompile Include="将字符串转换为整数.cpp">
+      <Filter>试题\字符串</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指 Offer 03. 数组中重复的数字.cpp">
+      <Filter>试题\剑指offer</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指 Offer 04. 二维数组中的查找.cpp">
+      <Filter>试题\剑指offer</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指 Offer 05. 替换空格.cpp">
+      <Filter>试题\剑指offer</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指 Offer 06. 从尾到头打印链表.cpp">
+      <Filter>试题\剑指offer</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指 Offer 07. 重建二叉树.cpp">
+      <Filter>试题\剑指offer</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指 Offer 08. 二叉树的下一个节点.cpp">
+      <Filter>试题\剑指offer</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指 Offer 09. 用两个栈实现队列.cpp">
+      <Filter>试题\剑指offer</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指 Offer 10- I. 斐波那契数列.cpp">
+      <Filter>试题\剑指offer</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指 Offer 11. 旋转数组的最小数字.cpp">
+      <Filter>试题\剑指offer</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指 Offer 12. 矩阵中的路径.cpp">
+      <Filter>试题\剑指offer</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指 Offer 14- I. 剪绳子.cpp">
+      <Filter>试题\剑指offer</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指 Offer 15. 二进制中1的个数.cpp">
+      <Filter>试题\剑指offer</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指 Offer 17. 打印从1到最大的n位数.cpp">
+      <Filter>试题\剑指offer</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指 Offer 18. 删除链表的节点.cpp">
+      <Filter>试题\剑指offer</Filter>
+    </ClCompile>
+    <ClCompile Include="链表基本操作.cpp">
+      <Filter>试题\链表</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指 Offer 19. 正则表达式匹配%28难%29.cpp">
+      <Filter>试题\剑指offer</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指 Offer 20. 表示数值的字符串.cpp">
+      <Filter>试题\剑指offer</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指 Offer 24. 反转链表.cpp">
+      <Filter>试题\剑指offer</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指 Offer 25. 合并两个排序的链表.cpp">
+      <Filter>试题\剑指offer</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指 Offer 01.拷贝赋值运算符.cpp">
+      <Filter>试题\剑指offer</Filter>
+    </ClCompile>
+    <ClCompile Include="[2]100. 相同的树.cpp">
+      <Filter>试题\dfs</Filter>
+    </ClCompile>
+    <ClCompile Include="[2]98. 验证二叉搜索树.cpp">
+      <Filter>试题\dfs</Filter>
+    </ClCompile>
+    <ClCompile Include="[2]111. 二叉树的最小深度.cpp">
+      <Filter>试题\dfs</Filter>
+    </ClCompile>
+    <ClCompile Include="1层序遍历套路.cpp">
+      <Filter>试题\bfs</Filter>
+    </ClCompile>
+    <ClCompile Include="[2×]199. 二叉树的右视图.cpp">
+      <Filter>试题\dfs</Filter>
+    </ClCompile>
+    <ClCompile Include="102. 二叉树的层序遍历.cpp">
+      <Filter>试题\bfs</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指 Offer 30. 包含min函数的栈.cpp">
+      <Filter>试题\剑指offer</Filter>
+    </ClCompile>
+    <ClCompile Include="[2]99.恢复二叉树.cpp">
+      <Filter>试题\dfs</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指 Offer 31. 栈的压入、弹出序列.cpp">
+      <Filter>试题\剑指offer</Filter>
+    </ClCompile>
+    <ClCompile Include="[2]106. 从中序与后序遍历序列构造二叉树.cpp">
+      <Filter>试题\dfs</Filter>
+    </ClCompile>
+    <ClCompile Include="[2]108. 将有序数组转换为二叉搜索树.cpp">
+      <Filter>试题\dfs</Filter>
+    </ClCompile>
+    <ClCompile Include="[2]109. 有序链表转换二叉搜索树.cpp">
+      <Filter>试题\dfs</Filter>
+    </ClCompile>
+    <ClCompile Include="[2]110. 平衡二叉树.cpp">
+      <Filter>试题\dfs</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指 Offer 33. 二叉搜索树的后序遍历序列.cpp">
+      <Filter>试题\剑指offer</Filter>
+    </ClCompile>
+    <ClCompile Include="[2]113. 路径总和 II.cpp">
+      <Filter>试题\dfs</Filter>
+    </ClCompile>
+    <ClCompile Include="[2]129. 求根到叶子节点数字之和.cpp">
+      <Filter>试题\dfs</Filter>
+    </ClCompile>
+    <ClCompile Include="[2×]124. 二叉树中的最大路径和.cpp">
+      <Filter>试题\dfs</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指 Offer 35. 复杂链表的复制.cpp">
+      <Filter>试题\剑指offer</Filter>
+    </ClCompile>
+    <ClCompile Include="深拷贝链表.cpp">
+      <Filter>算法源码</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指 Offer 37. 序列化二叉树.cpp">
+      <Filter>试题\剑指offer</Filter>
+    </ClCompile>
+    <ClCompile Include="[2×]114. 二叉树展开为链表.cpp">
+      <Filter>试题\dfs</Filter>
+    </ClCompile>
+    <ClCompile Include="[2×]200.岛屿数量.cpp">
+      <Filter>试题\dfs</Filter>
+    </ClCompile>
+    <ClCompile Include="股票问题通用解法.cpp">
+      <Filter>试题\dynamic programming\[2]股票问题</Filter>
+    </ClCompile>
+    <ClCompile Include="[2]226. 翻转二叉树.cpp">
+      <Filter>试题\dfs</Filter>
+    </ClCompile>
+    <ClCompile Include="[2]513. 找树左下角的值.cpp">
+      <Filter>试题\dfs</Filter>
+    </ClCompile>
+    <ClCompile Include="unionFind.cpp">
+      <Filter>算法源码</Filter>
+    </ClCompile>
+    <ClCompile Include="128. 最长连续序列.cpp">
+      <Filter>试题\哈希散列表</Filter>
+    </ClCompile>
+    <ClCompile Include="684. 冗余连接.cpp">
+      <Filter>试题\union find</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指 Offer 38. 字符串的排列.cpp">
+      <Filter>试题\剑指offer</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指 Offer 16. 数值的整数次方.cpp">
+      <Filter>试题\剑指offer</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指 Offer 21. 调整数组顺序使奇数位于偶数前面.cpp">
+      <Filter>试题\剑指offer</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指 Offer 22. 链表中倒数第k个节点.cpp">
+      <Filter>试题\剑指offer</Filter>
+    </ClCompile>
+    <ClCompile Include="96. 不同的二叉搜索树.cpp">
+      <Filter>试题\dynamic programming</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指 Offer 40. 最小的k个数.cpp">
+      <Filter>试题\剑指offer</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指 Offer 43. 1～n 整数中 1 出现的次数.cpp">
+      <Filter>试题\剑指offer</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指 Offer 46. 把数字翻译成字符串%28经典%29.cpp">
+      <Filter>试题\剑指offer</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指 Offer 48. 最长不含重复字符的子字符串.cpp">
+      <Filter>试题\剑指offer</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指 Offer 49. 丑数.cpp">
+      <Filter>试题\剑指offer</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指 Offer 51. 数组中的逆序对.cpp">
+      <Filter>试题\剑指offer</Filter>
+    </ClCompile>
+    <ClCompile Include="bubbleSort.cpp">
+      <Filter>算法源码\8大排序方法</Filter>
+    </ClCompile>
+    <ClCompile Include="heapSort.cpp">
+      <Filter>算法源码\8大排序方法</Filter>
+    </ClCompile>
+    <ClCompile Include="quickSort.cpp">
+      <Filter>算法源码\8大排序方法</Filter>
+    </ClCompile>
+    <ClCompile Include="mergeSort.cpp">
+      <Filter>算法源码\8大排序方法</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指 Offer 52. 两个链表的第一个公共节点.cpp">
+      <Filter>试题\剑指offer</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指 Offer 54. 二叉搜索树的第k大节点.cpp">
+      <Filter>试题\剑指offer</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指 Offer 56 - I. 数组中数字出现的次数.cpp">
+      <Filter>试题\剑指offer</Filter>
+    </ClCompile>
+    <ClCompile Include="gcd.cpp">
+      <Filter>算法源码</Filter>
+    </ClCompile>
+    <ClCompile Include="300. 最长递增子序列.cpp">
+      <Filter>试题\dynamic programming\[2]最长上升子序列</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指 Offer 57. 和为s的两个数字.cpp">
+      <Filter>试题\剑指offer</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指 Offer 57 - II. 和为s的连续正数序列.cpp">
+      <Filter>试题\剑指offer</Filter>
+    </ClCompile>
+    <ClCompile Include="Dijkstra_STL.cpp">
+      <Filter>算法源码\路径规划</Filter>
+    </ClCompile>
+    <ClCompile Include="Dijkstra_AdjacencyMatrix.cpp">
+      <Filter>算法源码\路径规划</Filter>
+    </ClCompile>
+    <ClCompile Include="Astar.cpp">
+      <Filter>算法源码\路径规划</Filter>
+    </ClCompile>
+    <ClCompile Include="HJ6 质数因子[难].cpp">
+      <Filter>试题\华为机测</Filter>
+    </ClCompile>
+    <ClCompile Include="HJ16 购物单.cpp">
+      <Filter>试题\dynamic programming\[2]0-1背包问题</Filter>
+    </ClCompile>
+    <ClCompile Include="HJ48 从单向链表中删除指定值的节点.cpp">
+      <Filter>试题\华为机测</Filter>
+    </ClCompile>
+    <ClCompile Include="HJ31 单词倒排.cpp">
+      <Filter>试题\华为机测</Filter>
+    </ClCompile>
+    <ClCompile Include="HJ49 多线程输出.cpp">
+      <Filter>试题\华为机测</Filter>
+    </ClCompile>
+    <ClCompile Include="HJ43 迷宫问题[dijkstra算法、dfs、bfs].cpp">
+      <Filter>试题\华为机测</Filter>
+    </ClCompile>
+    <ClCompile Include="HJ64 MP3光标位置.cpp">
+      <Filter>试题\华为机测</Filter>
+    </ClCompile>
+    <ClCompile Include="素数伴侣[非常难未做].cpp">
+      <Filter>试题\华为机测</Filter>
+    </ClCompile>
+    <ClCompile Include="HJ20  密码验证合格程序.cpp">
+      <Filter>试题\华为机测</Filter>
+    </ClCompile>
+    <ClCompile Include="HJ19 简单错误记录[考察链表的应用].cpp">
+      <Filter>试题\华为机测</Filter>
+    </ClCompile>
+    <ClCompile Include="0-1背包问题.cpp">
+      <Filter>试题\dynamic programming\[2]0-1背包问题</Filter>
+    </ClCompile>
+    <ClCompile Include="5. 最长回文子串.cpp">
+      <Filter>试题\dynamic programming\最长子回文串</Filter>
+    </ClCompile>
+    <ClCompile Include="[2]198. 打家劫舍.cpp">
+      <Filter>试题\dynamic programming\小偷题</Filter>
+    </ClCompile>
+    <ClCompile Include="[2]213. 打家劫舍 II.cpp">
+      <Filter>试题\dynamic programming\小偷题</Filter>
+    </ClCompile>
+    <ClCompile Include="337. 打家劫舍 III.cpp">
+      <Filter>试题\dynamic programming\小偷题</Filter>
+    </ClCompile>
+    <ClCompile Include="42. 接雨水.cpp">
+      <Filter>试题\dynamic programming</Filter>
+    </ClCompile>
+    <ClCompile Include="63. 不同路径 II.cpp">
+      <Filter>试题\dynamic programming\网格题</Filter>
+    </ClCompile>
+    <ClCompile Include="62. 不同路径.cpp">
+      <Filter>试题\dynamic programming\网格题</Filter>
+    </ClCompile>
+    <ClCompile Include="64. 最小路径和.cpp">
+      <Filter>试题\dynamic programming\网格题</Filter>
+    </ClCompile>
+    <ClCompile Include="120. 三角形最小路径和.cpp">
+      <Filter>试题\dynamic programming\网格题</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指 Offer 14- II. 剪绳子 II.cpp">
+      <Filter>试题\剑指offer</Filter>
+    </ClCompile>
+    <ClCompile Include="139. 单词拆分.cpp">
+      <Filter>试题\dynamic programming</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指 Offer 62. 圆圈中最后剩下的数字.cpp">
+      <Filter>试题\剑指offer</Filter>
+    </ClCompile>
+    <ClCompile Include="3.31第一次笔试.cpp">
+      <Filter>试题\各个公司笔试题汇总\华为</Filter>
+    </ClCompile>
+    <ClCompile Include="子串最大和：美团吃寿司.cpp">
+      <Filter>试题\dynamic programming\[2]子串问题</Filter>
+    </ClCompile>
+    <ClCompile Include="最长不同字符子串.cpp">
+      <Filter>试题\dynamic programming\[2]子串问题</Filter>
+    </ClCompile>
+    <ClCompile Include="274. H 指数.cpp">
+      <Filter>试题\binary Search</Filter>
+    </ClCompile>
+    <ClCompile Include="275. H 指数 II.cpp">
+      <Filter>试题\binary Search</Filter>
+    </ClCompile>
+    <ClCompile Include="74. 搜索二维矩阵.cpp">
+      <Filter>试题\binary Search</Filter>
+    </ClCompile>
+    <ClCompile Include="209. 长度最小的子数组.cpp">
+      <Filter>试题\dynamic programming\[2]子串问题</Filter>
+    </ClCompile>
+    <ClCompile Include="[2]×542. 01 矩阵.cpp">
+      <Filter>试题\bfs</Filter>
+    </ClCompile>
+    <ClCompile Include="[2]515. 在每个树行中找最大值.cpp">
+      <Filter>试题\bfs</Filter>
+    </ClCompile>
+    <ClCompile Include="[2]116. 填充每个节点的下一个右侧节点指针.cpp">
+      <Filter>试题\bfs</Filter>
+    </ClCompile>
+    <ClCompile Include="[2]103. 二叉树的锯齿形层序遍历.cpp">
+      <Filter>试题\bfs</Filter>
+    </ClCompile>
+    <ClCompile Include="[2×]547. 省份数量.cpp">
+      <Filter>试题\union find</Filter>
+    </ClCompile>
+    <ClCompile Include="bucketSort.cpp">
+      <Filter>算法源码\8大排序方法</Filter>
+    </ClCompile>
+    <ClCompile Include="23. 合并K个升序链表.cpp">
+      <Filter>试题\分治算法</Filter>
+    </ClCompile>
+    <ClCompile Include="[2×]101. 对称二叉树.cpp">
+      <Filter>试题\dfs</Filter>
+    </ClCompile>
+    <ClCompile Include="[2×]104. 二叉树的最大深度.cpp">
+      <Filter>试题\dfs</Filter>
+    </ClCompile>
+    <ClCompile Include="[2×]105. 从前序与中序遍历序列构造二叉树.cpp">
+      <Filter>试题\dfs</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指 Offer 58 - II. 左旋转字符串.cpp">
+      <Filter>试题\剑指offer</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指 Offer 59 - II. 队列的最大值.cpp">
+      <Filter>试题\剑指offer</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指 Offer 60. n个骰子的点数.cpp">
+      <Filter>试题\剑指offer</Filter>
+    </ClCompile>
+    <ClCompile Include="题目标号.cpp">
+      <Filter>试题\队列\单调队列/单调栈</Filter>
+    </ClCompile>
+    <ClCompile Include="[2]130. 被围绕的区域.cpp">
+      <Filter>试题\union find</Filter>
+    </ClCompile>
+    <ClCompile Include="[2×]133. 克隆图.cpp">
+      <Filter>试题\dfs</Filter>
+    </ClCompile>
+    <ClCompile Include="[2×]257. 二叉树的所有路径.cpp">
+      <Filter>试题\dfs</Filter>
+    </ClCompile>
+    <ClCompile Include="[2×]112. 路径总和113 124 129.cpp">
+      <Filter>试题\dfs</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指 Offer 61. 扑克牌中的顺子.cpp">
+      <Filter>试题\剑指offer</Filter>
+    </ClCompile>
+    <ClCompile Include="[2×]207. 课程表.cpp">
+      <Filter>试题\图</Filter>
+    </ClCompile>
+    <ClCompile Include="[2×]210. 课程表 II.cpp">
+      <Filter>试题\图</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指 Offer 65. 不用加减乘除做加法.cpp">
+      <Filter>试题\剑指offer</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指 Offer 66. 构建乘积数组.cpp">
+      <Filter>试题\剑指offer</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指 Offer 67. 把字符串转换成整数.cpp">
+      <Filter>试题\剑指offer</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指 Offer 68 - I. 二叉搜索树的最近公共祖先.cpp">
+      <Filter>试题\剑指offer</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指 Offer 68 - II. 二叉树的最近公共祖先.cpp">
+      <Filter>试题\剑指offer</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指 Offer 55 - II. 平衡二叉树.cpp">
+      <Filter>试题\剑指offer</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指 Offer 13. 机器人的运动范围.cpp">
+      <Filter>试题\剑指offer</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指 Offer 34. 二叉树中和为某一值的路径.cpp">
+      <Filter>试题\剑指offer</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指 Offer 29. 顺时针打印矩阵.cpp">
+      <Filter>试题\剑指offer</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指 Offer 36. 二叉搜索树与双向链表.cpp">
+      <Filter>试题\剑指offer</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指 Offer 63. 股票的最大利润.cpp">
+      <Filter>试题\剑指offer</Filter>
+    </ClCompile>
+    <ClCompile Include="dfs_adjacencyList.cpp">
+      <Filter>算法源码\图</Filter>
+    </ClCompile>
+    <ClCompile Include="dfs_adjacencyMatrix.cpp">
+      <Filter>算法源码\图</Filter>
+    </ClCompile>
+    <ClCompile Include="topologicalSort.cpp">
+      <Filter>算法源码\图</Filter>
+    </ClCompile>
+    <ClCompile Include="binarySearch.cpp">
+      <Filter>算法源码\二分查找</Filter>
+    </ClCompile>
+    <ClCompile Include="BST.cpp">
+      <Filter>算法源码\树</Filter>
+    </ClCompile>
+    <ClCompile Include="Trie(字典树).cpp">
+      <Filter>算法源码\树</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指 Offer 45. 把数组排成最小的数.cpp">
+      <Filter>试题\剑指offer</Filter>
+    </ClCompile>
+    <ClCompile Include="美团2.cpp">
+      <Filter>试题\各个公司笔试题汇总\美团 4.11</Filter>
+    </ClCompile>
+    <ClCompile Include="美团1.cpp">
+      <Filter>试题\各个公司笔试题汇总\美团 4.11</Filter>
+    </ClCompile>
+    <ClCompile Include="美团3.cpp">
+      <Filter>试题\各个公司笔试题汇总\美团 4.11</Filter>
+    </ClCompile>
+    <ClCompile Include="TX2.cpp">
+      <Filter>试题\各个公司笔试题汇总\TX</Filter>
+    </ClCompile>
+    <ClCompile Include="TX4.cpp">
+      <Filter>试题\各个公司笔试题汇总\TX</Filter>
+    </ClCompile>
+    <ClCompile Include="TX1.cpp">
+      <Filter>试题\各个公司笔试题汇总\TX</Filter>
+    </ClCompile>
+    <ClCompile Include="TX3.cpp">
+      <Filter>试题\各个公司笔试题汇总\TX</Filter>
+    </ClCompile>
+    <ClCompile Include="二分查找详解.cpp">
+      <Filter>试题\二分查找</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指 Offer 53 - I. 在排序数组中查找数字 I.cpp">
+      <Filter>试题\二分查找</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指 Offer 53 - II. 0～n-1中缺失的数字.cpp">
+      <Filter>试题\二分查找</Filter>
+    </ClCompile>
+    <ClCompile Include="字节 - 升序数组.cpp">
+      <Filter>试题\二分查找</Filter>
+    </ClCompile>
+    <ClCompile Include="3. 无重复字符的最长子串.cpp">
+      <Filter>试题\双指针/滑动窗口</Filter>
+    </ClCompile>
+    <ClCompile Include="91. 解码方法%28跳台阶升级版%29.cpp">
+      <Filter>试题\dynamic programming</Filter>
+    </ClCompile>
+    <ClCompile Include="11. 盛最多水的容器.cpp">
+      <Filter>试题\双指针/滑动窗口</Filter>
+    </ClCompile>
+    <ClCompile Include="15. 三数之和.cpp">
+      <Filter>试题\双指针/滑动窗口</Filter>
+    </ClCompile>
+    <ClCompile Include="32. 最长有效括号.cpp">
+      <Filter>试题\dynamic programming\[2]子串问题</Filter>
+    </ClCompile>
+    <ClCompile Include="33. 搜索旋转排序数组.cpp">
+      <Filter>试题\二分查找</Filter>
+    </ClCompile>
+    <ClCompile Include="34. 在排序数组中查找元素的第一个和最后一个位置.cpp">
+      <Filter>试题\二分查找</Filter>
+    </ClCompile>
+    <ClCompile Include="39. 组合总和.cpp">
+      <Filter>试题\dfs\求组合问题</Filter>
+    </ClCompile>
+    <ClCompile Include="17. 电话号码的字母组合.cpp">
+      <Filter>试题\dfs\求组合问题</Filter>
+    </ClCompile>
+    <ClCompile Include="22. 括号生成.cpp">
+      <Filter>试题\dfs\求组合问题</Filter>
+    </ClCompile>
+    <ClCompile Include="40. 组合总和 II.cpp">
+      <Filter>试题\dfs\求组合问题</Filter>
+    </ClCompile>
+    <ClCompile Include="216. 组合总和 III.cpp">
+      <Filter>试题\dfs\求组合问题</Filter>
+    </ClCompile>
+    <ClCompile Include="字节1.cpp">
+      <Filter>试题\各个公司笔试题汇总\字节跳动</Filter>
+    </ClCompile>
+    <ClCompile Include="字节2.cpp">
+      <Filter>试题\各个公司笔试题汇总\字节跳动</Filter>
+    </ClCompile>
+    <ClCompile Include="字节3.cpp">
+      <Filter>试题\各个公司笔试题汇总\字节跳动</Filter>
+    </ClCompile>
+    <ClCompile Include="字节4.cpp">
+      <Filter>试题\各个公司笔试题汇总\字节跳动</Filter>
+    </ClCompile>
+    <ClCompile Include="46. 全排列.cpp">
+      <Filter>试题\dfs\求组合问题</Filter>
+    </ClCompile>
+    <ClCompile Include="48. 旋转图像.cpp">
+      <Filter>试题\数组\矩阵旋转问题</Filter>
+    </ClCompile>
+    <ClCompile Include="n×n图像旋转%28一维数组%29.cpp">
+      <Filter>试题\数组\矩阵旋转问题</Filter>
+    </ClCompile>
+    <ClCompile Include="m×n图像旋转(一维数组).cpp">
+      <Filter>试题\数组\矩阵旋转问题</Filter>
+    </ClCompile>
+    <ClCompile Include="49. 字母异位词分组.cpp">
+      <Filter>试题\哈希散列表</Filter>
+    </ClCompile>
+    <ClCompile Include="线段树.cpp">
+      <Filter>算法源码\树</Filter>
+    </ClCompile>
+    <ClCompile Include="78. 子集.cpp">
+      <Filter>试题\dfs\求组合问题</Filter>
+    </ClCompile>
+    <ClCompile Include="ali1.cpp">
+      <Filter>试题\各个公司笔试题汇总\阿里</Filter>
+    </ClCompile>
+    <ClCompile Include="ali2.cpp">
+      <Filter>试题\各个公司笔试题汇总\阿里</Filter>
+    </ClCompile>
+    <ClCompile Include="403. 青蛙过河.cpp">
+      <Filter>试题\dfs\经典dfs + 回溯问题</Filter>
+    </ClCompile>
+    <ClCompile Include="142. 环形链表 II.cpp">
+      <Filter>试题\双指针/滑动窗口\双指针在链表中的应用</Filter>
+    </ClCompile>
+    <ClCompile Include="137. 只出现一次的数字 II.cpp">
+      <Filter>试题\位运算</Filter>
+    </ClCompile>
+    <ClCompile Include="136. 只出现一次的数字.cpp">
+      <Filter>试题\位运算</Filter>
+    </ClCompile>
+    <ClCompile Include="690. 员工的重要性.cpp">
+      <Filter>试题\dfs</Filter>
+    </ClCompile>
+    <ClCompile Include="84. 柱状图中最大的矩形.cpp">
+      <Filter>试题\栈\单调栈</Filter>
+    </ClCompile>
+    <ClCompile Include="739. 每日温度.cpp">
+      <Filter>试题\栈\单调栈</Filter>
+    </ClCompile>
+    <ClCompile Include="581. 最短无序连续子数组.cpp">
+      <Filter>试题\栈\单调栈</Filter>
+    </ClCompile>
+    <ClCompile Include="554. 砖墙.cpp">
+      <Filter>试题\哈希散列表</Filter>
+    </ClCompile>
+    <ClCompile Include="363. 矩形区域不超过 K 的最大数值和.cpp">
+      <Filter>试题\数组\前缀和问题</Filter>
+    </ClCompile>
+    <ClCompile Include="560. 和为K的子数组.cpp">
+      <Filter>试题\数组\前缀和问题</Filter>
+    </ClCompile>
+    <ClCompile Include="543. 二叉树的直径.cpp">
+      <Filter>试题\dfs</Filter>
+    </ClCompile>
+    <ClCompile Include="538. 把二叉搜索树转换为累加树.cpp">
+      <Filter>试题\dfs</Filter>
+    </ClCompile>
+    <ClCompile Include="494. 目标和.cpp">
+      <Filter>试题\dynamic programming\[2]0-1背包问题</Filter>
+    </ClCompile>
+    <ClCompile Include="448. 找到所有数组中消失的数字.cpp">
+      <Filter>试题\哈希散列表\原地哈希</Filter>
+    </ClCompile>
+    <ClCompile Include="438. 找到字符串中所有字母异位词.cpp">
+      <Filter>试题\双指针/滑动窗口</Filter>
+    </ClCompile>
+    <ClCompile Include="437. 路径总和 III.cpp">
+      <Filter>试题\dfs</Filter>
+    </ClCompile>
+    <ClCompile Include="740. 删除并获得点数.cpp">
+      <Filter>试题\dynamic programming\小偷题</Filter>
+    </ClCompile>
+    <ClCompile Include="347. 前 K 个高频元素.cpp">
+      <Filter>试题\堆</Filter>
+    </ClCompile>
+    <ClCompile Include="394. 字符串解码.cpp">
+      <Filter>试题\栈</Filter>
+    </ClCompile>
+    <ClCompile Include="位运算常见结论总结.cpp">
+      <Filter>试题\位运算</Filter>
+    </ClCompile>
+    <ClCompile Include="338. 比特位计数.cpp">
+      <Filter>试题\位运算</Filter>
+    </ClCompile>
+    <ClCompile Include="322. 零钱兑换.cpp">
+      <Filter>试题\dynamic programming\完全背包问题</Filter>
+    </ClCompile>
+    <ClCompile Include="JD1.cpp">
+      <Filter>试题\各个公司笔试题汇总\JD</Filter>
+    </ClCompile>
+    <ClCompile Include="JD2.cpp">
+      <Filter>试题\各个公司笔试题汇总\JD</Filter>
+    </ClCompile>
+    <ClCompile Include="1482. 制作 m 束花所需的最少天数.cpp">
+      <Filter>试题\二分查找</Filter>
+    </ClCompile>
+    <ClCompile Include="实现my_priority_queue.cpp">
+      <Filter>算法源码\STL库函数实现</Filter>
+    </ClCompile>
+    <ClCompile Include="148. 排序链表.cpp">
+      <Filter>试题\分治算法</Filter>
+    </ClCompile>
+    <ClCompile Include="152. 乘积最大子数组.cpp">
+      <Filter>试题\dynamic programming\[2]子串问题</Filter>
+    </ClCompile>
+    <ClCompile Include="160. 相交链表.cpp">
+      <Filter>试题\链表</Filter>
+    </ClCompile>
+    <ClCompile Include="1734. 解码异或后的排列.cpp">
+      <Filter>试题\位运算</Filter>
+    </ClCompile>
+    <ClCompile Include="1310. 子数组异或查询.cpp">
+      <Filter>试题\数组\前缀和问题</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

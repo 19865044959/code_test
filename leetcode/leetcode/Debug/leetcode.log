@@ -1,0 +1,319 @@
+﻿  (难)220. 存在重复元素 III.cpp
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\(难)220. 存在重复元素 III.cpp(21,26): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\(难)220. 存在重复元素 III.cpp(40,16): error C2011: “Solution”:“class”类型重定义
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\(难)220. 存在重复元素 III.cpp(18): message : 参见“Solution”的声明
+  0-1背包问题.cpp
+  1. 两数之和.cpp
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\1. 两数之和.cpp(47,17): error C2011: “Solution”:“class”类型重定义
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\1. 两数之和.cpp(19): message : 参见“Solution”的声明
+  102. 二叉树的层序遍历.cpp
+  139. 单词拆分.cpp
+  3.31第一次笔试.cpp
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\3.31第一次笔试.cpp(36,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\3.31第一次笔试.cpp(45,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\3.31第一次笔试.cpp(81,20): warning C4018: “<”: 有符号/无符号不匹配
+  337. 打家劫舍 III.cpp
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\337. 打家劫舍 III.cpp(38,17): error C2011: “Solution”:“class”类型重定义
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\337. 打家劫舍 III.cpp(21): message : 参见“Solution”的声明
+  5. 最长回文子串.cpp
+  684. 冗余连接.cpp
+  Astar.cpp
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\Astar.cpp(20,18): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\Astar.cpp(20,47): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\Astar.cpp(30,14): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\Learning\Visual Studio 2019\Community\VC\Tools\MSVC\14.24.28314\include\utility(207,16): warning C4244: “初始化”: 从“_Ty”转换到“_Ty1”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Ty1=float
+          ]
+D:\Learning\Visual Studio 2019\Community\VC\Tools\MSVC\14.24.28314\include\utility(207): message : 查看对正在编译的函数 模板 实例化“std::pair<float,float>::pair<double,double,0>(std::pair<double,double> &&) noexcept”的引用
+D:\Learning\Visual Studio 2019\Community\VC\Tools\MSVC\14.24.28314\include\utility(207): message : 查看对正在编译的函数 模板 实例化“std::pair<float,float>::pair<double,double,0>(std::pair<double,double> &&) noexcept”的引用
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\Astar.cpp(54): message : 查看对正在编译的函数 模板 实例化“std::pair<std::pair<float,float>,std::pair<int,int>>::pair<std::pair<double,double>,std::pair<int,int>,0>(std::pair<std::pair<double,double>,std::pair<int,int>> &&) noexcept”的引用
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\Astar.cpp(54): message : 查看对正在编译的函数 模板 实例化“std::pair<std::pair<float,float>,std::pair<int,int>>::pair<std::pair<double,double>,std::pair<int,int>,0>(std::pair<std::pair<double,double>,std::pair<int,int>> &&) noexcept”的引用
+D:\Learning\Visual Studio 2019\Community\VC\Tools\MSVC\14.24.28314\include\utility(207,1): warning C4244: “初始化”: 从“_Ty”转换到“_Ty2”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Ty2=float
+          ]
+  gcd.cpp
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\gcd.cpp(12,23): error C2084: 函数“int gcd(int,int)”已有主体
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\gcd.cpp(7): message : 参见“gcd”的前一个定义
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\gcd.cpp(20,17): error C2065: “gcd”: 未声明的标识符
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\gcd.cpp(20,26): error C2568: “/”: 无法解析函数重载
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\gcd.cpp(20,26): message : 可能是“int gcd(int,int)”
+  HJ16 购物单.cpp
+  HJ19 简单错误记录[考察链表的应用].cpp
+  HJ20  密码验证合格程序.cpp
+  HJ31 单词倒排.cpp
+  HJ43 迷宫问题[dijkstra算法、dfs、bfs].cpp
+  HJ48 从单向链表中删除指定值的节点.cpp
+  HJ6 质数因子[难].cpp
+  HJ64 MP3光标位置.cpp
+  mergeSort.cpp
+  正在生成代码...
+  正在编译...
+  main.cpp
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\main.cpp(1,9): error C2006: “#include”: 应为 "FILENAME" 或 <FILENAME>
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\main.cpp(1,9): fatal error C1083: 无法打开包括文件: “”: No such file or directory
+  [2]100. 相同的树.cpp
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\[2]100. 相同的树.cpp(46,17): error C2011: “Solution”:“class”类型重定义
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\[2]100. 相同的树.cpp(25): message : 参见“Solution”的声明
+  [2]101. 对称二叉树.cpp
+  1014. 最佳观光组合.cpp
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\1014. 最佳观光组合.cpp(26,27): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\1014. 最佳观光组合.cpp(27,35): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\1014. 最佳观光组合.cpp(51,17): error C2011: “Solution”:“class”类型重定义
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\1014. 最佳观光组合.cpp(18): message : 参见“Solution”的声明
+  [2]104. 二叉树的最大深度.cpp
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\[2]104. 二叉树的最大深度.cpp(56,17): error C2011: “Solution”:“class”类型重定义
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\[2]104. 二叉树的最大深度.cpp(28): message : 参见“Solution”的声明
+  [2]105. 从前序与中序遍历序列构造二叉树.cpp
+  [2]109. 有序链表转换二叉搜索树.cpp
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\[2]109. 有序链表转换二叉搜索树.cpp(65,16): error C2011: “Solution”:“class”类型重定义
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\[2]109. 有序链表转换二叉搜索树.cpp(34): message : 参见“Solution”的声明
+  11. 盛最多水的容器.cpp
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\11. 盛最多水的容器.cpp(57,17): error C2011: “Solution”:“class”类型重定义
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\11. 盛最多水的容器.cpp(21): message : 参见“Solution”的声明
+  [2]110. 平衡二叉树.cpp
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\[2]110. 平衡二叉树.cpp(50,16): error C2011: “Solution”:“class”类型重定义
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\[2]110. 平衡二叉树.cpp(27): message : 参见“Solution”的声明
+  [2]111. 二叉树的最小深度.cpp
+  [2×]112. 路径总和113 129.cpp
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\[2×]112. 路径总和113 129.cpp(52,16): error C2011: “Solution”:“class”类型重定义
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\[2×]112. 路径总和113 129.cpp(27): message : 参见“Solution”的声明
+  [2]113. 路径总和 II.cpp
+  120. 三角形最小路径和.cpp
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\120. 三角形最小路径和.cpp(51,17): error C2011: “Solution”:“class”类型重定义
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\120. 三角形最小路径和.cpp(20): message : 参见“Solution”的声明
+  121. 买卖股票的最佳时机.cpp
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\121. 买卖股票的最佳时机.cpp(53,17): error C2011: “Solution”:“class”类型重定义
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\121. 买卖股票的最佳时机.cpp(19): message : 参见“Solution”的声明
+  122. 买卖股票的最佳时机 II.cpp
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\122. 买卖股票的最佳时机 II.cpp(69,16): error C2011: “Solution”:“class”类型重定义
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\122. 买卖股票的最佳时机 II.cpp(21): message : 参见“Solution”的声明
+  [2×]124. 二叉树中的最大路径和.cpp
+  134. 加油站.cpp
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\134. 加油站.cpp(56,17): error C2011: “Solution”:“class”类型重定义
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\134. 加油站.cpp(19): message : 参见“Solution”的声明
+  135. 分发糖果.cpp
+  1518. 换酒问题.cpp
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\1518. 换酒问题.cpp(45,16): error C2011: “Solution”:“class”类型重定义
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\1518. 换酒问题.cpp(21): message : 参见“Solution”的声明
+  1523. 在区间范围内统计奇数数目.cpp
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\1523. 在区间范围内统计奇数数目.cpp(41,16): error C2011: “Solution”:“class”类型重定义
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\1523. 在区间范围内统计奇数数目.cpp(19): message : 参见“Solution”的声明
+  正在生成代码...
+  正在编译...
+  1525. 字符串的好分割数目.cpp
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\1525. 字符串的好分割数目.cpp(88,16): error C2011: “Solution”:“class”类型重定义
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\1525. 字符串的好分割数目.cpp(43): message : 参见“Solution”的声明
+  16. 最接近的三数之和.cpp
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\16. 最接近的三数之和.cpp(49,17): error C2011: “Solution”:“class”类型重定义
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\16. 最接近的三数之和.cpp(18): message : 参见“Solution”的声明
+  164. 最大间距.cpp
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\164. 最大间距.cpp(24,27): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\164. 最大间距.cpp(55,17): error C2011: “Solution”:“class”类型重定义
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\164. 最大间距.cpp(18): message : 参见“Solution”的声明
+  167. 两数之和 II - 输入有序数组.cpp
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\167. 两数之和 II - 输入有序数组.cpp(46,17): error C2011: “Solution”:“class”类型重定义
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\167. 两数之和 II - 输入有序数组.cpp(20): message : 参见“Solution”的声明
+  169. 多数元素.cpp
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\169. 多数元素.cpp(45,18): error C2011: “Solution”:“class”类型重定义
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\169. 多数元素.cpp(19): message : 参见“Solution”的声明
+  189. 旋转数组.cpp
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\189. 旋转数组.cpp(46,17): error C2011: “Solution”:“class”类型重定义
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\189. 旋转数组.cpp(20): message : 参见“Solution”的声明
+  [2]198. 打家劫舍.cpp
+  [2×]200.岛屿数量.cpp
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\[2×]200.岛屿数量.cpp(93,16): error C2011: “Solution”:“class”类型重定义
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\[2×]200.岛屿数量.cpp(26): message : 参见“Solution”的声明
+  [2×]199. 二叉树的右视图.cpp
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\[2×]199. 二叉树的右视图.cpp(63,16): error C2011: “Solution”:“class”类型重定义
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\[2×]199. 二叉树的右视图.cpp(26): message : 参见“Solution”的声明
+  [2×]207. 课程表.cpp
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\[2×]207. 课程表.cpp(27,27): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\[2×]207. 课程表.cpp(32,1): warning C4804: “*=”: 在操作中使用类型“bool”不安全
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\[2×]207. 课程表.cpp(46,1): warning C4804: “*=”: 在操作中使用类型“bool”不安全
+  27. 移除元素.cpp
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\27. 移除元素.cpp(48,17): error C2011: “Solution”:“class”类型重定义
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\27. 移除元素.cpp(21): message : 参见“Solution”的声明
+  283. 移动零.cpp
+  (难)394. 字符串解码.cpp
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\(难)394. 字符串解码.cpp(67,16): error C2011: “Solution”:“class”类型重定义
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\(难)394. 字符串解码.cpp(20): message : 参见“Solution”的声明
+  (难)33. 搜索旋转排序数组.cpp
+  34. 在排序数组中查找元素的第一个和最后一个位置.cpp
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\34. 在排序数组中查找元素的第一个和最后一个位置.cpp(62,16): error C2011: “Solution”:“class”类型重定义
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\34. 在排序数组中查找元素的第一个和最后一个位置.cpp(19): message : 参见“Solution”的声明
+  35. 搜索插入位置.cpp
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\35. 搜索插入位置.cpp(41,17): error C2011: “Solution”:“class”类型重定义
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\35. 搜索插入位置.cpp(19): message : 参见“Solution”的声明
+  39. 组合总和.cpp
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\39. 组合总和.cpp(40,31): warning C4018: “<”: 有符号/无符号不匹配
+  41. 缺失的第一个正数.cpp
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\41. 缺失的第一个正数.cpp(54,17): error C2011: “Solution”:“class”类型重定义
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\41. 缺失的第一个正数.cpp(22): message : 参见“Solution”的声明
+  42. 接雨水.cpp
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\42. 接雨水.cpp(65,16): error C2011: “Solution”:“class”类型重定义
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\42. 接雨水.cpp(21): message : 参见“Solution”的声明
+  45. 跳跃游戏 II.cpp
+  正在生成代码...
+  正在编译...
+  515. 在每个树行中找最大值.cpp
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\515. 在每个树行中找最大值.cpp(63,16): error C2011: “Solution”:“class”类型重定义
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\515. 在每个树行中找最大值.cpp(27): message : 参见“Solution”的声明
+  524. 通过删除字母匹配到字典里最长单词.cpp
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\524. 通过删除字母匹配到字典里最长单词.cpp(59,16): error C2011: “Solution”:“class”类型重定义
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\524. 通过删除字母匹配到字典里最长单词.cpp(18): message : 参见“Solution”的声明
+  53. 最大子序和.cpp
+  542. 01 矩阵.cpp
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\542. 01 矩阵.cpp(78,16): error C2011: “Solution”:“class”类型重定义
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\542. 01 矩阵.cpp(37): message : 参见“Solution”的声明
+  [2×]547. 省份数量.cpp
+  5473. 灯泡开关 IV.cpp
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\5473. 灯泡开关 IV.cpp(31,16): error C2011: “Solution”:“class”类型重定义
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\5473. 灯泡开关 IV.cpp(10): message : 参见“Solution”的声明
+  (精品)5474. 好叶子节点对的数量.cpp
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\(精品)5474. 好叶子节点对的数量.cpp(39,27): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\(精品)5474. 好叶子节点对的数量.cpp(52,27): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\(精品)5474. 好叶子节点对的数量.cpp(53,35): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\(精品)5474. 好叶子节点对的数量.cpp(56,35): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\(精品)5474. 好叶子节点对的数量.cpp(56,54): warning C4018: “<”: 有符号/无符号不匹配
+  559. N叉树的最大深度.cpp
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\559. N叉树的最大深度.cpp(61,16): error C2011: “Solution”:“class”类型重定义
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\559. N叉树的最大深度.cpp(37): message : 参见“Solution”的声明
+  605. 种花问题.cpp
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\605. 种花问题.cpp(26,27): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\605. 种花问题.cpp(61,17): error C2011: “Solution”:“class”类型重定义
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\605. 种花问题.cpp(19): message : 参见“Solution”的声明
+  62. 不同路径.cpp
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\62. 不同路径.cpp(52,17): error C2011: “Solution”:“class”类型重定义
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\62. 不同路径.cpp(20): message : 参见“Solution”的声明
+  621. 任务调度器.cpp
+  695. 岛屿的最大面积.cpp
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\695. 岛屿的最大面积.cpp(70,16): error C2011: “Solution”:“class”类型重定义
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\695. 岛屿的最大面积.cpp(27): message : 参见“Solution”的声明
+  75. 颜色分类.cpp
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\75. 颜色分类.cpp(51,17): error C2011: “Solution”:“class”类型重定义
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\75. 颜色分类.cpp(19): message : 参见“Solution”的声明
+  78. 子集.cpp
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\78. 子集.cpp(35,31): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\78. 子集.cpp(61,17): error C2011: “Solution”:“class”类型重定义
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\78. 子集.cpp(22): message : 参见“Solution”的声明
+  785. 判断二分图(+bfs).cpp
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\785. 判断二分图(+bfs).cpp(64,16): error C2011: “Solution”:“class”类型重定义
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\785. 判断二分图(+bfs).cpp(28): message : 参见“Solution”的声明
+  973. 最接近原点的 K 个点.cpp
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\973. 最接近原点的 K 个点.cpp(42,16): error C2011: “Solution”:“class”类型重定义
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\973. 最接近原点的 K 个点.cpp(18): message : 参见“Solution”的声明
+  976. 三角形的最大周长.cpp
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\976. 三角形的最大周长.cpp(42,16): error C2011: “Solution”:“class”类型重定义
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\976. 三角形的最大周长.cpp(18): message : 参见“Solution”的声明
+  [2]98. 验证二叉搜索树.cpp
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\[2]98. 验证二叉搜索树.cpp(49,16): error C2011: “Solution”:“class”类型重定义
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\[2]98. 验证二叉搜索树.cpp(25): message : 参见“Solution”的声明
+  [2]99.恢复二叉树.cpp
+  BST.cpp
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\BST.cpp(66,9): error C3861: “recur”: 找不到标识符
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\BST.cpp(180,29): error C2084: 函数“int nodeNum(TreeNode *)”已有主体
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\BST.cpp(170): message : 参见“nodeNum”的前一个定义
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\BST.cpp(214,13): error C2065: “nodeNum”: 未声明的标识符
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\BST.cpp(214,33): error C2568: “+”: 无法解析函数重载
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\BST.cpp(214,33): message : 可能是“int nodeNum(TreeNode *)”
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\BST.cpp(214,35): error C2065: “nodeNum”: 未声明的标识符
+  正在生成代码...
+  正在编译...
+  Dijkstra_AdjacencyMatrix.cpp
+  Dijkstra_STL.cpp
+  剑指 Offer 03. 数组中重复的数字.cpp
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\剑指 Offer 03. 数组中重复的数字.cpp(23,27): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\剑指 Offer 03. 数组中重复的数字.cpp(40,17): error C2011: “Solution”:“class”类型重定义
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\剑指 Offer 03. 数组中重复的数字.cpp(19): message : 参见“Solution”的声明
+  剑指 Offer 04. 二维数组中的查找.cpp
+  剑指 Offer 05. 替换空格.cpp
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\剑指 Offer 05. 替换空格.cpp(44,17): error C2011: “Solution”:“class”类型重定义
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\剑指 Offer 05. 替换空格.cpp(19): message : 参见“Solution”的声明
+  剑指 Offer 06. 从尾到头打印链表.cpp
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\剑指 Offer 06. 从尾到头打印链表.cpp(56,17): error C2011: “Solution”:“class”类型重定义
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\剑指 Offer 06. 从尾到头打印链表.cpp(26): message : 参见“Solution”的声明
+  剑指 Offer 07. 重建二叉树.cpp
+  剑指 Offer 09. 用两个栈实现队列.cpp
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\剑指 Offer 09. 用两个栈实现队列.cpp(54,10): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\剑指 Offer 09. 用两个栈实现队列.cpp(54,10): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\剑指 Offer 09. 用两个栈实现队列.cpp(54,20): error C2238: 意外的标记位于“;”之前
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\剑指 Offer 09. 用两个栈实现队列.cpp(55,10): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\剑指 Offer 09. 用两个栈实现队列.cpp(55,10): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\剑指 Offer 09. 用两个栈实现队列.cpp(55,20): error C2238: 意外的标记位于“;”之前
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\剑指 Offer 09. 用两个栈实现队列.cpp(28,17): error C2065: “sta1”: 未声明的标识符
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\剑指 Offer 09. 用两个栈实现队列.cpp(29,13): error C2065: “sta1”: 未声明的标识符
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\剑指 Offer 09. 用两个栈实现队列.cpp(31,17): error C2065: “sta2”: 未声明的标识符
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\剑指 Offer 09. 用两个栈实现队列.cpp(32,13): error C2065: “sta2”: 未声明的标识符
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\剑指 Offer 09. 用两个栈实现队列.cpp(37,9): error C2065: “sta1”: 未声明的标识符
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\剑指 Offer 09. 用两个栈实现队列.cpp(42,13): error C2065: “sta2”: 未声明的标识符
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\剑指 Offer 09. 用两个栈实现队列.cpp(43,17): error C2065: “sta1”: 未声明的标识符
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\剑指 Offer 09. 用两个栈实现队列.cpp(44,21): error C2065: “sta1”: 未声明的标识符
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\剑指 Offer 09. 用两个栈实现队列.cpp(45,17): error C2065: “sta2”: 未声明的标识符
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\剑指 Offer 09. 用两个栈实现队列.cpp(45,27): error C2065: “sta1”: 未声明的标识符
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\剑指 Offer 09. 用两个栈实现队列.cpp(46,17): error C2065: “sta1”: 未声明的标识符
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\剑指 Offer 09. 用两个栈实现队列.cpp(49,15): error C2065: “sta2”: 未声明的标识符
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\剑指 Offer 09. 用两个栈实现队列.cpp(50,9): error C2065: “sta2”: 未声明的标识符
+  剑指 Offer 10- I. 斐波那契数列.cpp
+  [2]剑指 Offer 13. 机器人的运动范围.cpp
+  剑指 Offer 14- I. 剪绳子.cpp
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\剑指 Offer 14- I. 剪绳子.cpp(63,16): error C2011: “Solution”:“class”类型重定义
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\剑指 Offer 14- I. 剪绳子.cpp(32): message : 参见“Solution”的声明
+  剑指 Offer 14- II. 剪绳子 II.cpp
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\剑指 Offer 14- II. 剪绳子 II.cpp(44,16): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+  剑指 Offer 17. 打印从1到最大的n位数.cpp
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\剑指 Offer 17. 打印从1到最大的n位数.cpp(26,32): warning C4244: “参数”: 从“__int64”转换到“const unsigned int”，可能丢失数据
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\剑指 Offer 17. 打印从1到最大的n位数.cpp(46,16): error C2011: “Solution”:“class”类型重定义
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\剑指 Offer 17. 打印从1到最大的n位数.cpp(19): message : 参见“Solution”的声明
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\剑指 Offer 17. 打印从1到最大的n位数.cpp(96,15): error C2079: “a”使用未定义的 class“Solution”
+  剑指 Offer 18. 删除链表的节点.cpp
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\剑指 Offer 18. 删除链表的节点.cpp(56,16): error C2011: “Solution”:“class”类型重定义
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\剑指 Offer 18. 删除链表的节点.cpp(27): message : 参见“Solution”的声明
+  剑指 Offer 19. 正则表达式匹配(难).cpp
+  [2]剑指 Offer 34. 二叉树中和为某一值的路径.cpp
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\[2]剑指 Offer 34. 二叉树中和为某一值的路径.cpp(54,16): error C2011: “Solution”:“class”类型重定义
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\[2]剑指 Offer 34. 二叉树中和为某一值的路径.cpp(26): message : 参见“Solution”的声明
+  剑指 Offer 35. 复杂链表的复制.cpp
+  剑指 Offer 38. 字符串的排列.cpp
+  剑指 Offer 40. 最小的k个数.cpp
+  剑指 Offer 46. 把数字翻译成字符串(经典).cpp
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\剑指 Offer 46. 把数字翻译成字符串(经典).cpp(37,17): error C2011: “Solution”:“class”类型重定义
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\剑指 Offer 46. 把数字翻译成字符串(经典).cpp(11): message : 参见“Solution”的声明
+  正在生成代码...
+  正在编译...
+  剑指 Offer 48. 最长不含重复字符的子字符串.cpp
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\剑指 Offer 48. 最长不含重复字符的子字符串.cpp(46,17): error C2011: “Solution”:“class”类型重定义
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\剑指 Offer 48. 最长不含重复字符的子字符串.cpp(14): message : 参见“Solution”的声明
+  剑指 Offer 49. 丑数.cpp
+  剑指 Offer 55 - II. 平衡二叉树.cpp
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\剑指 Offer 55 - II. 平衡二叉树.cpp(53,17): error C2011: “Solution”:“class”类型重定义
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\剑指 Offer 55 - II. 平衡二叉树.cpp(26): message : 参见“Solution”的声明
+  [2×]剑指 Offer 63. 股票的最大利润.cpp
+  HJ49 多线程输出.cpp
+  剑指 Offer 62. 圆圈中最后剩下的数字.cpp
+  素数伴侣[非常难未做].cpp
+  美团吃寿司.cpp
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\美团吃寿司.cpp(20,23): warning C4018: “<=”: 有符号/无符号不匹配
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\美团吃寿司.cpp(27,23): warning C4018: “<=”: 有符号/无符号不匹配
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\美团吃寿司.cpp(53,12): error C2084: 函数“int main(void)”已有主体
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\美团吃寿司.cpp(35): message : 参见“main”的前一个定义
+  股票问题通用解法.cpp
+  面试题 01.01. 判定字符是否唯一.cpp
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\面试题 01.01. 判定字符是否唯一.cpp(47,17): error C2011: “Solution”:“class”类型重定义
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\面试题 01.01. 判定字符是否唯一.cpp(20): message : 参见“Solution”的声明
+  面试题 10.01. 合并排序的数组.cpp
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\面试题 10.01. 合并排序的数组.cpp(54,16): error C2011: “Solution”:“class”类型重定义
+C:\Users\huany\Desktop\码农必备\算法+数据结构\leetcode刷题记录\leetcode\leetcode\面试题 10.01. 合并排序的数组.cpp(20): message : 参见“Solution”的声明
+  面试题45. 把数组排成最小的数.cpp
+  正在生成代码...
